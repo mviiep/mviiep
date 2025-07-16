@@ -15,6 +15,7 @@ Third-party Platform Integration (ZOHO)
 Hobbies:
 Chess, singing, and learning new languages.
 
+
 <p align="left">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
