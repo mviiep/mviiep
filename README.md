@@ -46,8 +46,8 @@ Chess, singing, and learning new languages.
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 
-  <!-- SAP (for ABAP, RAP, BAS) -->
-  <a href="https://www.sap.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/SAP_2011_logo.svg" alt="SAP" width="40" height="40"/>
+  <!-- SAP (transparent, no underline) -->
+  <a href="https://www.sap.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SAP_Logo.svg/320px-SAP_Logo.svg.png" alt="SAP" width="40" height="40"/>
   </a>
 </p>
