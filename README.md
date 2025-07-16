@@ -57,6 +57,6 @@ Experienced **ABAP Developer** with hands-on expertise in **SAP S/4HANA Cloud** 
 
 ## Hobbies
 
-- ♟️ Playing **Chess**
-- 🎤 **Singing**
-- 🌍 Learning **New Languages**
+- Playing **Chess**
+- **Singing**
+- Learning **New Languages**
