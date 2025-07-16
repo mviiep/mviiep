@@ -36,10 +36,6 @@ Chess, singing, and learning new languages.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
 
   <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -48,6 +44,6 @@ Chess, singing, and learning new languages.
 
   <!-- SAP (transparent, no underline) -->
   <a href="https://www.sap.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SAP_Logo.svg/320px-SAP_Logo.svg.png" alt="SAP" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SAP_Logo.svg/320px-SAP_Logo.svg.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sap-icon.png)" alt="SAP" width="40" height="40"/>
   </a>
 </p>
