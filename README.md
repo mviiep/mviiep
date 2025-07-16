@@ -44,6 +44,6 @@ Chess, singing, and learning new languages.
 
   <!-- SAP (transparent, no underline) -->
   <a href="https://www.sap.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sap-icon.png" alt="SAP" width="40" height="40"/>
+    <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/120838868/original/cdb556e3d7b961167a0bcb654fcc55c6c0a86cf8/sap-abap-development-java-development.jpg" alt="SAP" width="40" height="40"/>
   </a>
 </p>
