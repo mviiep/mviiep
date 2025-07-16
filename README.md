@@ -11,6 +11,7 @@ BADIs & Workflows
 BAS & RAP Application Development
 E-invoice & Digital Signature Integration
 Third-party Platform Integration (ZOHO)
+
 Hobbies:
 Chess, singing, and learning new languages.
 
